@@ -2,6 +2,7 @@
 import React from 'react';
 
 const Resume = () => {
+    console.log(React);
   return (
     <section>
       <h2>Resume</h2>

@@ -1,10 +1,9 @@
 // Navigation.js
 import React from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 const Navigation = () => {
-  const navigate = useNavigate();
-
+    console.log(React);
   return (
     <nav>
       <ul>
@@ -26,3 +25,4 @@ const Navigation = () => {
 };
 
 export default Navigation;
+

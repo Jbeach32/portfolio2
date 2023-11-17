@@ -2,6 +2,7 @@
 import React from 'react';
 
 const Footer = () => {
+    console.log(React);
   return (
     <footer>
       <p>Connect with me:</p>
@@ -21,5 +22,7 @@ const Footer = () => {
     </footer>
   );
 };
+
+
 
 export default Footer;
