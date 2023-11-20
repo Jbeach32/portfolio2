@@ -6,7 +6,7 @@ const Project = ({ title, image, deployedLink, githubLink }) => {
   console.log(React);
   return (
     <div className="project">
-      <img src={image} alt={title} />
+      <img src={image} alt={title} style={{ width: '300px', height: '200px' }}/>
       <h3>{title}</h3>
       <p>
         <a href={deployedLink} target="_blank" rel="noopener noreferrer">

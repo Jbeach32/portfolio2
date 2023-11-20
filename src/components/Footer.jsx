@@ -17,6 +17,11 @@ const Footer = () => {
             LinkedIn
           </a>
         </li>
+        <li>
+          <a href="https://twitter.com/joshbeach2007" target="_blank" rel="noopener noreferrer">
+            X
+          </a>
+        </li>
         {/* Add more social links as needed */}
       </ul>
     </footer>
