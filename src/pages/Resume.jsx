@@ -8,7 +8,7 @@ const Resume = () => {
       <h2>Resume</h2>
       <p>
         Download my resume:{' '}
-        <a href="/path/to/your-resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/1EQGO8wWC0Qas68UMHOWiixOhy3hg-EhW/view?usp=sharing" target="_blank" rel="noopener noreferrer">
           Resume.pdf
         </a>
       </p>
@@ -16,6 +16,8 @@ const Resume = () => {
       <ul>
         <li>React</li>
         <li>JavaScript</li>
+        <li>HTML</li>
+        <li>CSS</li>
         {/* Add more skills as needed */}
       </ul>
     </section>

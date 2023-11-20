@@ -9,8 +9,8 @@ const Portfolio = () => {
     {
       title: 'Project 1',
       image: 'project1.jpg',
-      deployedLink: 'https://project1.com',
-      githubLink: 'https://github.com/yourusername/project1',
+      deployedLink: 'https://note-takerjbeach-29c955ba285b.herokuapp.com/',
+      githubLink: 'https://github.com/Jbeach32/Note',
     },
     // Add more projects as needed
   ];

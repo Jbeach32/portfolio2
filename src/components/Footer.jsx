@@ -8,12 +8,12 @@ const Footer = () => {
       <p>Connect with me:</p>
       <ul>
         <li>
-          <a href="https://github.com/your-github-profile" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Jbeach32" target="_blank" rel="noopener noreferrer">
             GitHub
           </a>
         </li>
         <li>
-          <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/joshua-beach-5353481bb/" target="_blank" rel="noopener noreferrer">
             LinkedIn
           </a>
         </li>
